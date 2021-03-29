@@ -1,2 +1,2 @@
 mezzanine-pagedown==1.3
-Pygments==2.2.0
+Pygments==2.7.4
